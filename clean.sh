@@ -7,4 +7,4 @@ echo "Current Working Directory"
 pwd
 
 echo "Cleaning using the command make distclean"
-make distclean
+make -C distclean

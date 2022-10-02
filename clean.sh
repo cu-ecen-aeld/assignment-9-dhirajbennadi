@@ -1,5 +1,5 @@
 #Script to clean the image in Buildroot folder   
-#Author: Dhiraj Bennadi   
+#Author: Dhiraj Bennadi
 
 
 cd buildroot
